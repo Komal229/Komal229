@@ -21,6 +21,6 @@
 - Feel free to reach out!
 
 ## 📫 Connect With Me
- GitHub-Komal229 | Email-yadavkomal9413@gmail.com
+ GitHub-https://github.com/Komal229| Email-yadavkomal9413@gmail.com
 
 
