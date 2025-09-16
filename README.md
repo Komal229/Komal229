@@ -9,7 +9,7 @@
 - **Languages:** Python, SQL  
 - **Data Science:** Machine Learning, Data Visualization (Tableau, Power BI)  
 - **SEO Tools:** SEMrush, Ahrefs, Google Analytics  
-- **Software Testing:** Selenium, JMeter, Postman  
+ 
 
 ## 📚 Projects
 
